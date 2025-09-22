@@ -30,5 +30,5 @@ I had a great interest in Sudoku when I was younger, and at one point I actually
 ## Instructions for End User
 - To add a Sudoku to SudokuList, click the button "Add" after giving a id and blanks, and after complete the sudoku puzzle to add the completeled sudoku to SudokuList
 - To show the saved Sudokus, click the button "Saved Sudokus" to see all the previously saved sudokus
-- To locate my visual component, look at the menu screen where I have included a picture of meat
+- To locate my visual component, look at the menu screen where I have included a picture of a piece of meat
 - To save the state of the application to file, click the button "Save"
